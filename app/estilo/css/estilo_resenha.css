@@ -1,0 +1,18 @@
+#coluna_boa{
+	background-color: blue;
+}
+#coluna_ruim{
+	background-color: red;
+}
+#coluna_ruim>h2, #coluna_boa>h2{
+	margin: 15px auto;
+}
+#coluna_boa>a{
+	background-color: blue !important;
+}
+#lista_boa h5, #lista_boa p{
+	color: blue !important;
+}#lista_ruim h5, #lista_ruim p{
+
+	color: red !important;
+}

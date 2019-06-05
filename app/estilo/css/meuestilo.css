@@ -1,0 +1,43 @@
+.nav-link{
+	color: white;
+	cursor: pointer;
+}#desc-button{
+	display: none;
+}#menuAçao:hover #desc-button{
+	display: inline-flex;
+	color: white;
+}#menuAçao{
+	position: fixed;
+	left: 13rem;
+}#conteudo-menu{
+	position: fixed;
+}#menuAçao:hover{
+	background-color: #130648;
+}#menuAçao:hover #icone-feather{
+	display: inline-flex;
+	color: white;
+}h1{
+	 font-family: 'Anton', sans-serif;
+	 color: #130648;
+}.contact-icons{
+	/*padding: 5px;*/
+	margin: 15px;
+}#navbar-dd:hover{
+	color: #007bff;
+
+}#show{
+	top: 15px !important;
+	background-color: #007bff;
+	color: white;
+
+}#experiencia>li{
+	background-color: #77889957;
+}p{
+	font-family: 'Montaga', serif;
+}hr{
+	background-color: #130648;
+	size: 100px;
+
+ }#skills>img:hover{
+	background-color: #13064894;
+ }
